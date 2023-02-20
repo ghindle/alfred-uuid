@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Now</string>
+	<string>UUID</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -85,9 +85,9 @@
 				<key>scriptfile</key>
 				<string>index.js</string>
 				<key>subtext</key>
-				<string>Generate formatted timestamp</string>
+				<string>Generate random UUID</string>
 				<key>title</key>
-				<string>Now</string>
+				<string>UUID</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
